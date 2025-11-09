@@ -1,0 +1,8 @@
+# Environment variables (IMPORTANT - keeps API keys safe!)
+.env
+
+# Virtual environment
+venv/
+env/
+ENV/
+
